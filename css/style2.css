@@ -28,7 +28,7 @@ article::before {
   position: relative;
   top: 0;
   left: -30px;
-  color: #0068ff;
+  color: #ffffff;
   font-size: 24px;
 }
 article::after {
@@ -36,7 +36,7 @@ article::after {
   position: relative;
   top: 40px;
   left: 300px;
-  color: #0068FF;
+  color: #ffffff;
   font-size: 44px;
 }
 hr {border-bottom: 3px solid #0068FF;}
