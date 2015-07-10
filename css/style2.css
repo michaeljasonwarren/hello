@@ -26,7 +26,6 @@ animation: AnimationName 30s ease infinite;
     50%{background-position:10% 100%}
     100%{background-position:91% 0%}
 }
-}
 
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
