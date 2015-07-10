@@ -1,28 +1,7 @@
 body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;}
-body, html { height:100%; overflow:hidden; } 
-body { 
-	background: linear-gradient(133deg, #84ff26, #83a4d4);
-background-size: 400% 400%;
 
--webkit-animation: AnimationName 30s ease infinite;
--moz-animation: AnimationName 30s ease infinite;
-animation: AnimationName 30s ease infinite;
 
-@-webkit-keyframes AnimationName {
-    0%{background-position:91% 0%}
-    50%{background-position:10% 100%}
-    100%{background-position:91% 0%}
-}
-@-moz-keyframes AnimationName {
-    0%{background-position:91% 0%}
-    50%{background-position:10% 100%}
-    100%{background-position:91% 0%}
-}
-@keyframes AnimationName { 
-    0%{background-position:91% 0%}
-    50%{background-position:10% 100%}
-    100%{background-position:91% 0%}
-}
+.wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
 
 a {text-decoration: none; color: #333; border-bottom: 3px solid #0068FF;}
