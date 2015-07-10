@@ -1,5 +1,4 @@
-body, html { height:100%; overflow:hidden; } 
-body { 
+body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;, html { height:100%; overflow:hidden; } 
 	background-image:radial-gradient(circle at 73.33% 76.94%, #ddd6f3, transparent 100%),radial-gradient(circle at 47.78% 33.09%, #faaca8, transparent 100%),radial-gradient(circle at 50% 50%, #d1ff8c, #d1ff8c 100%);
 }
 
