@@ -8,19 +8,19 @@ background-size: 400% 400%;
 animation: AnimationName 30s ease infinite;
 
 @-webkit-keyframes AnimationName {
-    0%{background-position:91% 0%}
+    0%{background-position:90% 0%}
     50%{background-position:10% 100%}
-    100%{background-position:91% 0%}
+    100%{background-position:90% 0%}
 }
 @-moz-keyframes AnimationName {
-    0%{background-position:91% 0%}
+    0%{background-position:90% 0%}
     50%{background-position:10% 100%}
-    100%{background-position:91% 0%}
+    100%{background-position:90% 0%}
 }
 @keyframes AnimationName { 
-    0%{background-position:91% 0%}
+    0%{background-position:90% 0%}
     50%{background-position:10% 100%}
-    100%{background-position:91% 0%}
+    100%{background-position:90% 0%}
 }
 }
 
