@@ -6,9 +6,9 @@ body, html { height:100%; overflow:visible; }
 
 a {text-decoration: none; color: #000; border-bottom: 3px solid #0068FF;}
 a:hover {color: #0068FF}
-p {font-weight: 200; font-size: 20px;}
+p {font-weight: 200; font-size: 13px;}
 
-.name {font-family: Montserrat; font-size: 45px; text-transform: none; font-weight: 900; padding: 0px; border: 0px solid #ffffff; color: #ffffff; display: inline-block; position: absolute; margin-bottom: 60px; top: 60px; left: 90px;}
+.name {font-family: Roboto+Mono; font-size: 13px; text-transform: none; font-weight: 900; padding: 0px; border: 0px solid #000000; color: #000000; display: inline-block; position: absolute; margin-bottom: 60px; top: 60px; left: 90px;}
 
 .container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: auto;}
 
