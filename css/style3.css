@@ -21,4 +21,4 @@ p {font-weight: 200; font-size: 13px;}
 
 footer .inline-list li {margin-right: 40px;}
 footer a {border: none; color: #0068FF;}
-footer {margin: center; bottom: 100%; right: 0px; padding: 40px 0 0 0; width: 600px; -webkit-transform: rotate(0deg);}
+footer {bottom: 100%; right: 0px; padding: 40px 0 0 0; width: 600px; -webkit-transform: rotate(0deg);}
