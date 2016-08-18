@@ -8,7 +8,7 @@ a {text-decoration: none; color: #000; border-bottom: 3px solid #0068FF;}
 a:hover {color: #0068FF}
 p {font-weight: 200; font-size: 13px;}
 
-.name {font-family: Roboto+Mono; font-size: 26px; text-transform: none; font-weight: 900; padding: 0px; border: 0px solid #000000; color: #000000;}
+.name {font-family: Roboto+Mono; font-size: 20px; text-transform: none; font-weight: 900; padding: 0px; border: 0px solid #000000; color: #000000;}
 
 .container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: auto;}
 
