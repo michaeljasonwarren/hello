@@ -1,4 +1,4 @@
-body {margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #fff; overflow: auto;}
+body {margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #000000; overflow: auto;}
 body, html { height:100%; overflow:visible; } 
 
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
@@ -14,7 +14,7 @@ p {font-weight: 200; font-size: 13px;}
 
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
-.meta a:hover {color: #fff;}
+.meta a:hover {color: #000000;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
