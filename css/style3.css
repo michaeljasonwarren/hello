@@ -1,4 +1,4 @@
-body {margin: 0 auto; line-height: 2em; padding: 25px; box-sizing: border-box; color: #000000; overflow: auto;}
+body {margin: 0 auto; line-height: 2em; padding: 50px; box-sizing: border-box; color: #000000; overflow: auto;}
 body, html { height:100%; overflow:visible; } 
 
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
