@@ -10,7 +10,7 @@ p {font-weight: 200; font-size: 13px;}
 
 .name {font-family: Roboto+Mono; font-size: 20px; text-transform: none; font-weight: 400; padding: 0px; border: 0px solid #000000; color: #000000;}
 
-.container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: auto;}
+.container {margin: 0 auto; width: 700px; padding: 50px 50px 50px; overflow: auto;}
 
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
@@ -21,4 +21,4 @@ p {font-weight: 200; font-size: 13px;}
 
 footer .inline-list li {margin-right: 40px;}
 footer a {border: none; color: #0068FF;}
-footer {bottom: 100%; right: 0px; padding: 40px 0 0 0; width: 300px; -webkit-transform: rotate(0deg);}
+footer {bottom: 100%; right: 0px; padding: 40px 0 0 0; width: 500px; -webkit-transform: rotate(0deg);}
